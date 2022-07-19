@@ -17,15 +17,15 @@ description: Blog about different topics
 
 # Includes an icon in the footer for each username you enter
 footer-links:
-  dribbble:
-  email:
-  facebook:
-  flickr:
-  github: barryclark/jekyll-now
-  instagram:
-  linkedin:
-  pinterest:
-  rss: # just type anything here for a working RSS icon
+  #dribbble:
+  #email:
+  #facebook:
+  #flickr:
+  github: https://github.com/rodebox00
+  #instagram:
+  linkedin: https://www.linkedin.com/in/rodrigo-o-29b914241/
+  #pinterest:
+  #rss: # just type anything here for a working RSS icon
   #twitter: jekyllrb
   #stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
   #youtube: # channel/<your_long_string> or user/<user-name>
