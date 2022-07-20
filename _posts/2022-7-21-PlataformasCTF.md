@@ -12,3 +12,11 @@ Tryhackme corresponde a una de las plataformas de hacking más conocidas en el m
 Los pathways ofrecidos corresponden a un conjunto de módulos consecutivos que se enfocan en un mismo nivel de experiencia o campo de la ciberseguridad. Estos módulos, se pueden realizar sin necesidad de completar el pathway. Cada uno de los módulos de aprendizaje se centra en herramientas como *Burp Suite* y *Metasploit*, metodologías como escalada de privilegios y búsqueda de vulnerabilidades o conocimientos relacionados con la criptografía y los fundamentos de Windows.
 
 Las salas son un conjunto de actividades a completar basadas en máquinas, documentos o binarios y se pueden encontrar o no dentro de un módulo. Estas actividades pueden ir desde el modelo de desafío CTF hasta analizar tráfico de red, un documento o máquina y responder a las preguntas que realizan. En esta sección se encuentran las máquinas CTF disponibles que en muchas ocasiones no solo piden la flag de determinados usuarios sino también otros datos como por ejemplo la versión de algunos servicios que funcionan en la máquina. En alguna de estas salas se les ofrecen pistas a los jugadores o incluso se establecen una serie de pasos o vídeos para explotar la máquina con fines didácticos.
+
+En la siguiente figura se observa una tarea perteneciente a una sala donde en la parte derecha se encuentra un caso práctico explicado sobre un ataque web y a la izquierda un cuestionario sobre la ejecución del caso práctico.
+
+![_config.yml]({{ site.baseurl }}/images/ImagenModuloTryhackme.png)
+
+Cuando los participantes se registran en la página, indican el nivel de experiencia que poseen en base al cuál les recomendará un contenido u otro. El perfil de usuario dentro de la plataforma irá incrementando de nivel así como la posición dentro del ranking global conforme se vayan ganando puntos en la realización de actividades.
+
+Tryhackme brinda una VPN para poder conectarse a la red en la que se encuentran las máquinas vulnerables y aparte, ofrece una máquina virtual Kali Linux accesible a través de la web.
