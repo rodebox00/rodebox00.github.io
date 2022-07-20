@@ -1,0 +1,2 @@
+layout: post
+title: Estudio y comparativa de las 9 plataformas CTF más completas del mercado
