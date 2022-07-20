@@ -116,7 +116,7 @@ echoCTF.RED  se trata de una de las páginas menos conocidas en cuanto a desafí
 
 Dentro de echoCTF.RED, las máquinas CTF con vulnerabilidades a explotar se denominan targets. Estos targets tienen una sección dedicada dentro de la página donde se indica para cada uno de ellos el nombre, el número de flags que tiene asociado, el número de servicios que corren sobre el target y cuantos han sido descubiertos, el nivel de dificultad, el progreso del usuario, la IP del target, el número de usuarios que lo han resuelto y si se puede conseguir o no el acceso al usuario root. También, para algunos targets y de forma didáctica, echoCTF.RED ofrece la posibilidad de acceder a writeups redactados por los usuarios pero descontando el 50% de la puntuación total que se puede adquirir. Cabe destacar que el contador de los servicios descubiertos por el usuario se incrementará automáticamente cuando este los descubra a través del análisis de puertos o cualquier otro mecanismo.
 
-Además, echoCTF.RED agrupa targets (que no se encuentran en la sección dedicada a targets) con características comunes en redes. De esta forma se pueden encontrar redes con targets específicos que usan \textit{memcached}, enfocados a principiantes, con vulnerabilidades CVE como se presenta en la siguiente figura, con implementaciones DevOps o focalizados en la escalada de privilegios.
+Además, echoCTF.RED agrupa targets (que no se encuentran en la sección dedicada a targets) con características comunes en redes. De esta forma se pueden encontrar redes con targets específicos que usan *memcached*, enfocados a principiantes, con vulnerabilidades CVE como se presenta en la siguiente figura, con implementaciones DevOps o focalizados en la escalada de privilegios.
 
 ![_config.yml]({{ site.baseurl }}/images/red de echoCTF.png)
 
@@ -176,7 +176,7 @@ En base a los contenidos de hacking que proporciona, la compañía Portswigger o
 
 #### Desventajas
   - Solo provee recursos relacionados con la seguridad en el entorno web.
-  - Muchos de los labs propuestos tienen como solución o son preparados para el uso de \textit{Burp Suite}, lo que provoca que no se incite al uso de otras herramientas.
+  - Muchos de los labs propuestos tienen como solución o son preparados para el uso de *Burp Suite*, lo que provoca que no se incite al uso de otras herramientas.
 
 ### Pentester Lab
 
