@@ -12,4 +12,4 @@ A place to include any other types of information that you'd like to include abo
 
 ### Contact me
 
-https://www.linkedin.com/in/rodrigo-o-29b914241/
+[LinKedin](https://www.linkedin.com/in/rodrigo-o-29b914241/)
