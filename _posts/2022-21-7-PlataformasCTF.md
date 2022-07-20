@@ -20,3 +20,13 @@ En la siguiente figura se observa una tarea perteneciente a una sala donde en la
 Cuando los participantes se registran en la página, indican el nivel de experiencia que poseen en base al cuál les recomendará un contenido u otro. El perfil de usuario dentro de la plataforma irá incrementando de nivel así como la posición dentro del ranking global conforme se vayan ganando puntos en la realización de actividades.
 
 Tryhackme brinda una VPN para poder conectarse a la red en la que se encuentran las máquinas vulnerables y aparte, ofrece una máquina virtual Kali Linux accesible a través de la web.
+
+
+#### Ventajas
+  - Contiene módulos variados de distintos campos de la ciberseguridad como el análisis de malware y los fundamentos del hacking web.
+  - Se encuentra enfocado a un perfil más didáctico y por ello puede ser un entorno muy útil para usuarios principiantes.
+  - Máquina virtual en la nube accesible desde la web para realizar los desafíos. 
+#### Desventajas
+  - La mayoría de las máquinas y módulos avanzados y por ende los pathways, están disponibles bajo  suscripción.
+  - La máquina virtual en la nube que suministra la plataforma, tiene un tiempo limitado de uso si no eres usuario premium.
+  - A día de hoy por defecto los usuarios no están aislados entre sí a través de la \gls{vpn} que ofrece Tryhackme por lo que un usuario puede ser atacado por otro.
