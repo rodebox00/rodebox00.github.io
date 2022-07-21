@@ -220,3 +220,20 @@ Con respecto a la comunidad, HTB suministra tanto foros como un canal de discord
 #### Desventajas
   - Imposibilidad de acceso a writeups de máquinas activas.
   - Acceso limitado a máquinas y desafíos retirados.
+
+
+
+### Comparación de las distintas plataformas CTF existentes
+
+Todas las plataformas evaluadas anteriormente tienen como característica común que están enfocadas al entrenamiento y progreso de las técnicas de hacking ético y ciberseguridad. Aunque algunas de estas páginas se centran en multitud de aspectos y campos de la ciberseguridad, existen otras como Web Security Academy, enfocada exclusivamente en la seguridad web. 
+
+Uno de los aspectos relevantes y por el que muchos usuarios se decantan a la hora de elegir una plataforma, es la existencia de contenido didáctico, ya sea enfocado a la resolución de ejercicios o sobre tópicos en general. Dentro de las páginas que ofrecen este contenido, se encuentran TryHackMe, picoCTF, Pentester Lab, Web Security Academy y Hack The Box. Que estas páginas ofrezcan un contenido didáctico acerca más a los usuarios inexpertos del mundo de la ciberseguridad. En cambio, que algunas como picoCTF estén demasiado enfocadas a principiantes y al control de la progresión de los miembros, hace que no sean tan atractivas para los usuarios más avanzados. Además, algunas como HTB y Web Security Academy mantienen el contenido actualizado, a diferencia de otras como OverTheWire.
+
+Dentro de los recursos más valorados por los usuarios de estas plataformas, se encuentran las máquinas CTF, las cuales son ofrecidas por TryHackMe, Vulnhub, Root Me, echoCTF.RED y Hack The Box. Vulnhub, se diferencia de todas las demás proveedoras en que única y exclusivamente se dedica a las máquinas CTF. En concreto, a proveer máquinas que pueden ser descargadas. El resto, ofrecen estas máquinas de forma online siendo accesibles a través de una VPN (excepto Root Me). En relación con los writeups, tanto HTB como echoCTF.RED los brindan a través de su página web.
+
+En relación con los desafíos CTF, todas excepto Vulnhub contienen de varios temas. Algunas poseen desafíos sobre contenidos poco frecuentes tales como hardware para HTB o Android para Pentester Lab. La inmensa mayoría de los entornos salvo la ya mencionada Vulnhub y Web Security Academy dedicada a desafíos web, abarcan retos sobre los temas más comunes, criptografía, red, reversing, análisis forense, etc y se consiguen resolver capturando una o más flags. Aunque echoCTF.RED incluye varios de estos temas, ofrece a los usuarios un número escaso de desafíos. 
+
+Para realizar los desafíos y las máquinas, algunas plataformas como TryHackMe, Pentester Lab, HTB o picoCTF ofrecen una máquina virtual evitando que el usuario tenga que tener una en local. Aunque la máquina virtual que presenta TryHackMe, Pentester Lab y HTB es más sofisticada, el acceso a esta se encuentra limitado si el usuario no es un usuario de pago. Estas tres páginas corresponden concretamente a aquellas cuyo contenido no es totalmente gratuito aunque suministran contenido gratuito de calidad a pesar de que el ofrecido por Pentester Lab es escaso. 
+
+La mayoría de los entornos estudiados a excepción de Vulnhub y Pentester Lab, ofrecen una comunidad de discusión a los usuarios. Esta comunidad, al igual que los contenidos didácticos, es de gran utilidad para los jugadores principiantes y un gran apoyo para la resolución de dudas o problemas relacionados con la plataforma. Así mismo, tanto Vulnhub como OverTheWire carecen de la posibilidad de que se registren usuarios, por lo que el progreso de los jugadores no es tan visible como en otras plataformas, así como la comunicación entre ellos.
+
