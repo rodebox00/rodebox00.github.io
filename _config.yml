@@ -9,7 +9,7 @@ name: rodebox00
 description: Blog sobre plataformas y máquinas CTF
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: images/raccoon.png
+avatar: /images/raccoon.png
 
 #
 # Flags below are optional
