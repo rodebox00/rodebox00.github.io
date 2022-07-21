@@ -15,7 +15,9 @@ Las salas son un conjunto de actividades a completar basadas en máquinas, docum
 
 En la siguiente figura se observa una tarea perteneciente a una sala donde en la parte derecha se encuentra un caso práctico explicado sobre un ataque web y a la izquierda un cuestionario sobre la ejecución del caso práctico.
 
-![_config.yml]({{ site.baseurl }}/images/ImagenModuloTryhackme.png)
+{:refdef: style="text-align: center;"}
+![My Image]({{ site.baseimg }}/images/ImagenModuloTryhackme.png)
+{: refdef}
 
 Cuando los participantes se registran en la página, indican el nivel de experiencia que poseen en base al cuál les recomendará un contenido u otro. El perfil de usuario dentro de la plataforma irá incrementando de nivel así como la posición dentro del ranking global conforme se vayan ganando puntos en la realización de actividades.
 
