@@ -5,7 +5,7 @@ title: Estudio y comparativa de las 9 plataformas CTF más completas actualmente
 
 En este artículo se realiza un estudio del escenario actual en relación a las plataformas CTF que se encuentran disponibles en el mercado mediante el análisis y la comparación de algunas de ellas. A través de este estudio se muestra la variedad de enfoques en los que las plataformas establecen su contenido tanto gratuito como de pago. Así mismo, se comparan las características comunes de las páginas analizadas para ofrecer una visión general de las carencias y virtudes de cada una, así como de sus diferencias.
 
-### TryHackMe
+### 1. TryHackMe
 
 Tryhackme corresponde a una de las plataformas de hacking más conocidas en el mundo y se encuentra enfocada en proporcionar desafíos y contenidos didácticos tanto de forma gratuita como bajo suscripción. La página se basa en 3 conceptos clave tanto para el aprendizaje como para la práctica de conocimientos. Estos conceptos son pathways, módulos y salas. 
 
@@ -35,7 +35,7 @@ Tryhackme brinda una VPN para poder conectarse a la red en la que se encuentran 
   - A día de hoy por defecto los usuarios no están aislados entre sí a través de la VPN que ofrece Tryhackme por lo que un usuario puede ser atacado por otro.
 
 
-### Vulnhub
+### 2. Vulnhub
 
 Vulnhub  es una plataforma que se aleja del marco común del resto de plataformas que proporcionan máquinas CTF ya que a diferencia de ellas no existe suscripción alguna y las máquinas deben instalarse y explotarse en local. El entorno de Vulnhub permite que los creadores de máquinas puedan agrupar aquellas máquinas que sean de una misma temática. 
 
@@ -53,7 +53,7 @@ Las imágenes se pueden descargar tanto en extensión *.ova* como *.torrent* y u
   - El proceso de publicación como creador de una imagen es lento.
 
 
-### Root Me
+### 3. Root Me
 
 Root Me  es una plataforma que ofrece recursos para el aprendizaje en seguridad informática tanto en forma de desafíos como de máquinas CTF a resolver. A la hora de registrarse, la página proporciona tres tipos de accesos:
 
@@ -84,7 +84,7 @@ En relación con la conexión por parte de los usuarios a las máquinas y los de
   - Al no ofrecer una VPN, cualquier usuario que se encuentre en una sala resolviendo una máquina podría descubrir la dirección IP de los usuarios de la misma sala que atacan la máquina.
 
 
-### picoCTF
+### 4. picoCTF
 
 La plataforma picoCTF  ha sido desarrollada por la universidad Carnegie Mellon y está basada en el modelo de desafíos CTF. Aunque es accesible para cualquier usuario mayor de 13 años, se encuentra enfocada sobre todo a los estudiantes de secundaria y bachiller (middle school y high school, respectivamente). Todos los contenidos proporcionados por picoCTF son gratuitos y todos los usuarios registrados tienen el mismo tipo de acceso.
 
@@ -112,7 +112,7 @@ Para completar los desafíos, el usuario puede usar su propio equipo o una máqu
   - No proporciona máquinas a explotar sino únicamente desafíos.
   - picoCTF está enfocada sobre todo para principiantes, por lo que jugadores de un alto nivel pueden no verse atraídos por la plataforma.
 
-### echoCTF.RED
+### 5. echoCTF.RED
 
 echoCTF.RED  se trata de una de las páginas menos conocidas en cuanto a desafíos CTF, aunque contiene una gran cantidad de recursos de calidad. Consiste en una plataforma open source que ofrece tanto desafíos como máquinas CTF a resolver de forma gratuita.
 
@@ -138,7 +138,7 @@ echoCTF.RED ofrece una sección de Dashboard en la que se ofrecer una visión ge
   - Comunidad pequeña.
   - Imposibilidad de participación hoy en día por parte de equipos.
 
-### OverTheWire
+### 6. OverTheWire
 
 Entre las plataformas que tienen como objetivo aprender en base a la práctica de conceptos, se encuentra OverTheWire . Esta corresponde a una plataforma totalmente gratuita y sin ningún tipo de inscripción basada única y exclusivamente en una serie de desafíos denominados Wargames.
 
@@ -161,7 +161,7 @@ Al igual que otras plataformas, OverTheWire se apoya en un canal de discord dedi
   - Muchas transiciones entre niveles no tienen ningún tipo de información o ayuda por lo que si se necesita, esta tiene que ser buscada en la comunidad.
   - Apenas 12 Wargames accesibles de forma online.
 
-### Web Security Academy
+### 7. Web Security Academy
 
 Web Security Academy es un entorno controlado específico de hacking web desarrollado por PortSwigger, empresa creadora de la herramienta *Burp Suite* y que se encuentra accesible a través de su página web. Todos los recursos proporcionados son gratuitos y accesibles a través de la inscripción como usuario en la página. 
 
@@ -180,7 +180,7 @@ En base a los contenidos de hacking que proporciona, la compañía Portswigger o
   - Solo provee recursos relacionados con la seguridad en el entorno web.
   - Muchos de los labs propuestos tienen como solución o son preparados para el uso de *Burp Suite*, lo que provoca que no se incite al uso de otras herramientas.
 
-### Pentester Lab
+### 8. Pentester Lab
 
 Pentester Lab  ofrece dos tipos de versiones para los usuarios, una gratuita y otra de pago, Pentester Lab Pro. Los dos tipos de versiones se diferencian en el acceso o no a ciertos contenidos. En general, la plataforma proporciona ejercicios a resolver de distintos ámbitos. 
 
@@ -201,7 +201,7 @@ Dentro del entorno web, la página también contiene un blog enlazado donde se p
   - Mayoría de ejercicios de pago.
   - No ofrece ningún foro o canal para la comunidad.
 
-### Hack The Box
+### 9. Hack The Box
 
 En cuanto a máquinas CTF, HTB es una de las plataformas más importantes del mercado. Aunque es más conocida por las máquinas que ofrece, también proporciona junto con otros servicios, retos de hacking ético de diversas temáticas. Sobre los planes de suscripción, HTB ofrece tres tipos, uno gratuito, uno *Vip* y otro *Vip+*. Estos planes se detallarán en el apartado de análisis sobre HTB. De forma paralela, la plataforma gestiona una academia gratuita llamada *HTB Academy*, la cual es enlazada desde algunas secciones de la página. 
 
