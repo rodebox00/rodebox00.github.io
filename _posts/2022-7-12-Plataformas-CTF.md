@@ -237,3 +237,37 @@ Para realizar los desafíos y las máquinas, algunas plataformas como TryHackMe,
 
 La mayoría de los entornos estudiados a excepción de Vulnhub y Pentester Lab, ofrecen una comunidad de discusión a los usuarios. Esta comunidad, al igual que los contenidos didácticos, es de gran utilidad para los jugadores principiantes y un gran apoyo para la resolución de dudas o problemas relacionados con la plataforma. Así mismo, tanto Vulnhub como OverTheWire carecen de la posibilidad de que se registren usuarios, por lo que el progreso de los jugadores no es tan visible como en otras plataformas, así como la comunicación entre ellos.
 
+A continuación, mediante la siguiente tabla se puede observar de un modo más visual las características y diferencias de las distintas plataformas.
+
+$$
+
+\begin{table}[!h]
+\centering 
+\resizebox{15cm}{!} {
+ \begin{tabular}{|c|c|c|c|c|c|c|c|c|} 
+ \hline
+ \scriptsize\textbf{Plataformas} & \scriptsize\textbf{Máquinas} & \scriptsize\textbf{Desafíos} & \scriptsize\textbf{Comunidad} & \scriptsize\textbf{Didáctico} & \scriptsize\textbf{MV Online} & \scriptsize\textbf{Usuario} & \scriptsize\textbf{Gratuito} & \scriptsize\textbf{VPN}\\ [0.5ex] 
+ \hline
+ \scriptsize{TryHackMe} & x & x & x & x & x & x &  & x\\
+ \hline
+ \scriptsize{Vulnhub} & x &  &  &  &  &  & x & \\ 
+ \hline
+ \scriptsize{Root Me} & x & x & x &  &  & x & x & \\ 
+ \hline
+ \scriptsize{picoCTF} &  & x & x & x & x & x & x & \\ 
+ \hline
+ \scriptsize{echoCTF.RED} & x & x & x &  &  & x & x & x \\ 
+ \hline
+ \scriptsize{OverTheWire} &  & x & x &  &  &  & x &  \\ 
+ \hline
+ \scriptsize{Web Security Academy} &  & x & x & x &  & x & x &  \\
+ \hline
+ \scriptsize{Pentester Lab} &  & x &  & x & x & x & &  \\
+ \hline
+ \scriptsize{Hack The Box} & x & x & x & x & x & x & & x \\ 
+ \hline
+ \end{tabular}
+ }
+ \end{table}
+ 
+ $$
