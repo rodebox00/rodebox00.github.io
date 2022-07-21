@@ -241,4 +241,6 @@ La mayoría de los entornos estudiados a excepción de Vulnhub y Pentester Lab, 
 
 A continuación, mediante la siguiente tabla se puede observar de un modo más visual las características y diferencias de las distintas plataformas.
 
-![_config.yml]({{ site.baseurl }}/images/TablaComparativa.png)
+{:refdef: style="text-align: center;"}
+![My Image]({{ site.baseimg }}/images/TablaComparativa.png)
+{: refdef}
