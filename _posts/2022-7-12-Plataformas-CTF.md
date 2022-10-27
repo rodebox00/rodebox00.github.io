@@ -16,7 +16,7 @@ Las salas son un conjunto de actividades a completar basadas en máquinas, docum
 En la siguiente figura se observa una tarea perteneciente a una sala donde en la parte derecha se encuentra un caso práctico explicado sobre un ataque web y a la izquierda un cuestionario sobre la ejecución del caso práctico.
 
 {:refdef: style="text-align: center;"}
-![My Image]({{ site.baseimg }}/images/ImagenModuloTryhackme.png)
+![My Image]({{ site.baseimg }}/images/plataformas/ImagenModuloTryhackme.png)
 {: refdef}
 
 Cuando los participantes se registran en la página, indican el nivel de experiencia que poseen en base al cuál les recomendará un contenido u otro. El perfil de usuario dentro de la plataforma irá incrementando de nivel así como la posición dentro del ranking global conforme se vayan ganando puntos en la realización de actividades.
@@ -100,7 +100,7 @@ El entorno de picoCTF tiene a disposición de los usuarios 4 secciones destacada
 
 Los desafíos que se encuentran en picoGym corresponden a todos aquellos que han sido publicados por la plataforma, incluidos aquellos que se han empleado en los torneos. Para todos estos retos, se obtienen los puntos asociados a los mismos y se consideran como superados al indicar únicamente la flag correspondiente. Al igual que otras plataformas, existen retos asociados a diferentes temáticas de la ciberseguridad como análisis forense, criptografía, explotación web, etc. Muchos de estos retos contendrán pistas que ayudarán a su resolución y para algunos se entregarán unos recursos adicionales  (programas, binarios, imágenes, etc) como se observa en la próxima figura. Como alternativa, también se puede entregar una dirección en la que se encuentra un servicio o sistema a explotar.
 
-![_config.yml]({{ site.baseurl }}/images/imagenpicoCTF.png)
+![_config.yml]({{ site.baseurl }}/images/plataformas/imagenpicoCTF.png)
 
 Para completar los desafíos, el usuario puede usar su propio equipo o una máquina virtual sin interfaz gráfica que facilita la página web a través de la cual se pueden realizar la mayoría de los desafíos.
 
@@ -120,7 +120,7 @@ Dentro de echoCTF.RED, las máquinas CTF con vulnerabilidades a explotar se deno
 
 Además, echoCTF.RED agrupa targets (que no se encuentran en la sección dedicada a targets) con características comunes en redes. De esta forma se pueden encontrar redes con targets específicos que usan *memcached*, enfocados a principiantes, con vulnerabilidades CVE como se presenta en la siguiente figura, con implementaciones DevOps o focalizados en la escalada de privilegios.
 
-![_config.yml]({{ site.baseurl }}/images/red de echoCTF.png)
+![_config.yml]({{ site.baseurl }}/images/plataformas/red de echoCTF.png)
 
 Como se comentaba anteriormente, también se proporcionan una serie de retos. En conjunto, estos retos suman un total de 9 y, aunque son pocos en comparación con otras plataformas, contienen varios pasos a completar. Algunos de estos desafíos están relacionados con targets y otros con categorías como análisis de código, análisis de binarios, docker, análisis forense e ingeniería inversa.
 
@@ -186,7 +186,7 @@ Pentester Lab  ofrece dos tipos de versiones para los usuarios, una gratuita y o
 
 Los ejercicios que Pentester Lab propone contienen una estructura similar a la mostrada en la próxima figura. Cada uno contiene un apartado llamado Course donde se explicará o no la vulnerabilidad a explotar sobre la que trata el ejercicio. Normalmente estos ejercicios también suelen contener un vídeo sobre su resolución, la explicación de la solución o una sección donde introducir una flag correspondiente. Algunos ejercicios contienen también archivos adjuntos relacionados con la resolución del ejercicio y otros se pueden resolver mediante el uso de una consola proporcionada o a través de la web sin necesidad del uso de una VPN.  
 
-![_config.yml]({{ site.baseurl }}/images/FotoPentesterLab.png)
+![_config.yml]({{ site.baseurl }}/images/plataformas/FotoPentesterLab.png)
 
 Estos ejercicios con características comunes se agrupan entre sí en badges. Por ello, existen badges enfocados en la evasión de la autenticación, en la seguridad a nivel de sistema operativo, sobre Android, etc. Una vez que el usuario completa un badge, la plataforma emite un certificado que indica la resolución del badge. Además, dentro de la sección *Progress*, los badges son ordenados en base a una secuencia sugerida por la plataforma.
 
@@ -242,5 +242,5 @@ La mayoría de los entornos estudiados a excepción de Vulnhub y Pentester Lab, 
 A continuación, mediante la siguiente tabla se puede observar de un modo más visual las características y diferencias de las distintas plataformas.
 
 {:refdef: style="text-align: center;"}
-![My Image]({{ site.baseimg }}/images/TablaComparativa.png)
+![My Image]({{ site.baseimg }}/images/plataformas/TablaComparativa.png)
 {: refdef}
