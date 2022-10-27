@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Blog sobre plataformas y máquinas CTF
+Blog sobre diversos temas de ciberseguridad
 
 ### Contact me
 
