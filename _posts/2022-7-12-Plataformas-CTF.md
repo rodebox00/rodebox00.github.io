@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Estudio y comparativa de las 9 plataformas CTF más completas actualmente
+title: Estudio y comparativa de 9 plataformas CTF
 ---
 
 En este artículo se realiza un estudio del escenario actual en relación a las plataformas CTF que se encuentran disponibles en el mercado mediante el análisis y la comparación de algunas de ellas. A través de este estudio se muestra la variedad de enfoques en los que las plataformas establecen su contenido tanto gratuito como de pago. Así mismo, se comparan las características comunes de las páginas analizadas para ofrecer una visión general de las carencias y virtudes de cada una, así como de sus diferencias.
